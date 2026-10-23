@@ -1,0 +1,6 @@
+*.md
+.git
+verification
+.env*
+node_modules
+dist

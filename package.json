@@ -1,0 +1,13 @@
+{
+  "name": "voragon-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "lint": "node --check script.js && node --check conversar.js && node --check scripts/render.mjs && node --check scripts/build.mjs && node scripts/lint.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run build && npm run lint && npm test"
+  },
+  "engines": {"node": ">=22"}
+}

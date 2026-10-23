@@ -1,0 +1,189 @@
+{
+  "whatsapp": "5545991038233",
+  "seo": {
+    "title": "Voragon | Consultoria em tecnologia, IA e educação empresarial",
+    "description": "Consultoria com implementação para pequenos negócios. Capacitação em IA, landing pages e automação com Jefferson Vorpagel. Conheça os planos de R$ 2.900 e R$ 7.900."
+  },
+  "hero": {
+    "eyebrow": "CONSULTORIA + CAPACITAÇÃO + IMPLEMENTAÇÃO",
+    "title": "Tecnologia e IA",
+    "highlight": "com direção para o seu negócio.",
+    "description": "Entenda o que priorizar, aprenda a usar as ferramentas e coloque uma solução em prática. Consultoria em tecnologia e educação empresarial com Jefferson Vorpagel, do diagnóstico à entrega.",
+    "complement": "Para pequenos empresários e prestadores de serviços que precisam organizar sua presença digital e reduzir o trabalho manual. Atendimento online para todo o Brasil.",
+    "cta": "Conversar com Jefferson",
+    "message": "Olá, Jefferson! Quero conversar sobre meu projeto e entender como a Voragon pode ajudar minha empresa.",
+    "secondary": "Comparar os planos",
+    "proof": [
+      "Planos com escopo definido",
+      "Orientação e execução juntas",
+      "Capacitação para usar o que foi entregue"
+    ]
+  },
+  "start": {
+    "eyebrow": "DOIS CAMINHOS PARA COMEÇAR",
+    "title": "Escolha o próximo avanço do seu negócio.",
+    "description": "Uma oferta, um objetivo e entregas definidas. Na conversa inicial gratuita, avaliamos se o plano atende ao seu cenário antes da contratação.",
+    "note": "Valores totais dos pacotes, sem mensalidade obrigatória. Domínio, hospedagem, licenças e consumo de APIs não estão incluídos; eventuais custos são apresentados para aprovação antes da contratação. Prazos começam após o recebimento dos materiais e acessos necessários.",
+    "flexibility": "Pagamento em duas etapas: 50% na contratação e 50% na entrega, sem acréscimo. No premium, três parcelas de R$ 2.633,33, R$ 2.633,33 e R$ 2.633,34, na contratação e em 30 e 60 dias. Escopo, cronograma e responsabilidades são formalizados na proposta.",
+    "offers": [
+      {
+        "id": "direcao-presenca",
+        "name": "Direção e Presença",
+        "price": 2900,
+        "description": "Um projeto de até 30 dias para organizar uma oferta, publicar sua landing page e aprender a aplicar IA em uma tarefa do negócio.",
+        "items": [
+          "Diagnóstico de uma oferta e plano de ação com prioridades",
+          "Dois encontros individuais online de 60 minutos: diagnóstico e capacitação prática",
+          "Landing page de até 6 seções para uma oferta, com texto organizado a partir dos seus materiais",
+          "Layout responsivo, SEO básico e botão de WhatsApp",
+          "Uma integração simples: formulário para uma planilha, sem API personalizada",
+          "Kit de até 5 prompts e orientação de uso de IA para uma atividade escolhida",
+          "Uma rodada consolidada de revisão e orientação para usar a página",
+          "Correção de falhas da entrega por 30 dias; novas funcionalidades ficam fora do pacote"
+        ],
+        "cta": "Quero Direção e Presença",
+        "message": "Olá, Jefferson! Quero conhecer o plano Direção e Presença da Voragon."
+      },
+      {
+        "id": "transformacao",
+        "name": "Transformação · Premium",
+        "price": 7900,
+        "description": "Um programa de 90 dias para priorizar um processo, capacitar a equipe e implantar uma melhoria com acompanhamento.",
+        "items": [
+          "Diagnóstico de um processo e roteiro de evolução para os 90 dias",
+          "Seis encontros online de 60 minutos, incluindo capacitação para até 5 pessoas",
+          "Landing page de até 8 seções ou melhoria de escopo equivalente em um site existente, definida na proposta",
+          "Uma automação de até 5 etapas entre no máximo 2 ferramentas com conectores disponíveis",
+          "Um uso de IA no fluxo: classificação, resumo ou rascunho de resposta com validação humana",
+          "Até 20 horas técnicas de implementação, incluindo página, automação, testes e revisões",
+          "Duas rodadas consolidadas de revisão, documentação e orientação da equipe",
+          "Acompanhamento de um indicador definido no diagnóstico e reunião final de avaliação"
+        ],
+        "cta": "Quero avaliar o Premium",
+        "message": "Olá, Jefferson! Quero conhecer o plano Transformação · Premium da Voragon."
+      }
+    ]
+  },
+  "evolution": {
+    "eyebrow": "CONTINUIDADE OPCIONAL",
+    "title": "Depois da entrega, continue evoluindo.",
+    "description": "Acompanhamento mensal para soluções já implantadas e avaliadas pela Voragon. Sem taxa de implantação adicional para as entregas dos planos acima.",
+    "badge": "Para evoluir",
+    "note": "Contratação mensal, sem renovação automática e sem fidelidade mínima. Horas incluem reuniões, análise e execução, não acumulam e não incluem plantão. Atendimento em dias úteis, com resposta inicial em até 2 dias úteis. Extras somente com orçamento aprovado; licenças e infraestrutura são cobradas separadamente.",
+    "plans": [
+      {
+        "id": "cuidado",
+        "name": "Cuidado",
+        "price": 590,
+        "description": "Para manter a entrega funcionando e fazer pequenos ajustes.",
+        "items": [
+          "Até 3 horas por mês de suporte e ajustes",
+          "Verificação mensal da página e dos fluxos contratados",
+          "Correções, atualizações de conteúdo e orientação dentro das horas"
+        ],
+        "cta": "Quero conhecer o Cuidado",
+        "message": "Olá, Jefferson! Quero conhecer o plano Cuidado da Voragon.",
+        "recommended": false
+      },
+      {
+        "id": "evolucao",
+        "name": "Evolução",
+        "price": 1290,
+        "description": "Para revisar prioridades e melhorar o que já está em operação.",
+        "items": [
+          "Até 7 horas mensais de análise, reuniões e execução",
+          "Um encontro mensal de até 60 minutos dentro das horas",
+          "Melhorias na página, nos prompts e na automação existente",
+          "Resumo mensal do trabalho e das próximas prioridades"
+        ],
+        "cta": "Quero acompanhamento mensal",
+        "message": "Olá, Jefferson! Quero conhecer o plano Evolução da Voragon.",
+        "recommended": true
+      }
+    ]
+  },
+  "mentorship": {
+    "name": "Diagnóstico estratégico avulso",
+    "title": "Precisa de clareza antes de escolher um plano?",
+    "description": "Um diagnóstico pontual de tecnologia e IA para um desafio da empresa. Você recebe orientação e prioridades; a execução é contratada à parte.",
+    "price": 990,
+    "items": [
+      "Dois encontros online de 60 minutos",
+      "Análise de um processo e das ferramentas atuais",
+      "Plano de ação escrito com prioridades e próximos passos"
+    ],
+    "cta": "Quero meu diagnóstico",
+    "message": "Olá, Jefferson! Quero conhecer a consultoria de tecnologia de R$ 1.000.",
+    "note": "Entrega em até 10 dias úteis após o primeiro encontro e recebimento das informações. Os planos completos já incluem seu próprio diagnóstico; não é necessário contratar este serviço antes deles.",
+    "deliveryTitle": "Uma decisão mais bem informada.",
+    "deliveryLabel": "Entrega definida"
+  },
+  "diagnostic": {
+    "eyebrow": "Conversa inicial e diagnóstico",
+    "title": "Não sabe por onde começar?",
+    "description": "Na conversa inicial gratuita, entendemos sua necessidade. Quando o projeto exigir levantamento aprofundado, definimos o assessment e seu orçamento antes de começar.",
+    "name": "Assessment para projetos",
+    "price": null,
+    "items": [
+      "Reunião de levantamento",
+      "Análise da presença digital ou do processo",
+      "Identificação de gargalos e oportunidades",
+      "Definição das prioridades",
+      "Plano de ação recomendado"
+    ],
+    "note": "Integrações, automações, sistemas e gestão de projetos recebem proposta após a definição do escopo. Nenhuma execução é incluída automaticamente no diagnóstico.",
+    "cta": "Agendar conversa inicial",
+    "message": "Olá, Jefferson! Quero agendar uma conversa inicial gratuita para apresentar o desafio da minha empresa.",
+    "secondary": "Conhecer o diagnóstico",
+    "secondaryMessage": "Olá, Jefferson! Quero conhecer o Diagnóstico Digital e a análise aprofundada para minha empresa."
+  },
+  "portfolio": {
+    "cta": "Quero avaliar uma solução para minha empresa",
+    "message": "Olá, Jefferson! Vi os projetos da Voragon e quero avaliar uma solução para minha empresa."
+  },
+  "faq": {
+    "eyebrow": "Antes de começar",
+    "title": "Uma decisão com clareza.",
+    "items": [
+      {
+        "question": "Os planos são mentoria ou execução?",
+        "answer": "São consultoria com implementação. Os encontros desenvolvem sua capacidade de decidir e usar as ferramentas; a Voragon também executa as entregas descritas no plano. Não há desenvolvimento ilimitado."
+      },
+      {
+        "question": "Qual é a diferença entre os dois planos?",
+        "answer": "Direção e Presença é um projeto de até 30 dias, com dois encontros e uma landing page. O Premium acompanha um processo por 90 dias, com seis encontros e até 20 horas técnicas para a página e uma automação com IA."
+      },
+      {
+        "question": "Um sistema completo está incluído?",
+        "answer": "Não. Aplicativos, sistemas, e-commerce, integrações com APIs personalizadas e migrações de dados são projetos separados. O diagnóstico permite definir escopo, prazo e orçamento antes de desenvolver."
+      },
+      {
+        "question": "Quais custos ficam fora do pacote?",
+        "answer": "Domínio, hospedagem, e-mail, ferramentas pagas, licenças, APIs e mídia de anúncios. Apresentamos os custos previstos antes da contratação. Não há mensalidade obrigatória da Voragon para contratar os pacotes."
+      },
+      {
+        "question": "Já tenho site. Posso contratar?",
+        "answer": "Sim. No Premium, podemos substituir a landing page por melhorias de esforço equivalente no site existente. A avaliação técnica e a proposta definem o que será feito dentro das 20 horas de implementação."
+      },
+      {
+        "question": "Como funcionam prazos e pagamentos?",
+        "answer": "Direção e Presença: até 30 dias e duas parcelas de R$ 1.450. Premium: programa de 90 dias e três parcelas que totalizam R$ 7.900. Os prazos dependem da entrega dos materiais, acessos e aprovações combinados na proposta."
+      },
+      {
+        "question": "Há garantia de vendas ou economia?",
+        "answer": "Não prometemos faturamento, número de clientes ou economia garantidos. Definimos um objetivo e um indicador para acompanhar o uso e avaliar a entrega. Resultados também dependem da oferta, da operação e da participação da empresa."
+      },
+      {
+        "question": "Como funciona o acompanhamento após a entrega?",
+        "answer": "Você pode contratar Cuidado por R$ 590/mês ou Evolução por R$ 1.290/mês. São serviços opcionais, com limites de horas e sem renovação automática. Correções de falhas da entrega seguem as condições da proposta."
+      }
+    ]
+  },
+  "closing": {
+    "eyebrow": "Seu próximo passo",
+    "title": "Seu próximo avanço começa com uma conversa.",
+    "description": "Conte o que hoje ocupa seu tempo ou limita sua empresa. Jefferson ajuda a avaliar o caminho e o plano adequado, em uma conversa inicial gratuita.",
+    "cta": "Conversar com Jefferson",
+    "message": "Olá, Jefferson! Quero conversar sobre meu projeto. O principal desafio da minha empresa hoje é: "
+  }
+}
